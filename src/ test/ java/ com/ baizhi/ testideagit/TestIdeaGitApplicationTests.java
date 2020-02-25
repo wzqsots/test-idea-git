@@ -18,6 +18,9 @@ public class TestIdeaGitApplicationTests {
         System.out.println("dev分支添加");
         System.out.println("github添加");
 
+        System.out.println("第三次修改");
+        String s="aaa";
+        String string = "ssss";
     }
 
 }
