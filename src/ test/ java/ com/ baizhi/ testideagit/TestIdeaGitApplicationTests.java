@@ -16,6 +16,8 @@ public class TestIdeaGitApplicationTests {
         int b=100;
 
         System.out.println("dev分支添加");
+        System.out.println("github添加");
+
     }
 
 }
