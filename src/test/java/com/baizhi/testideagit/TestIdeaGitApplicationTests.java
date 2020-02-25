@@ -11,6 +11,9 @@ public class TestIdeaGitApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("第一次修改");
+        int a=10;
+        int b=100;
     }
 
 }
