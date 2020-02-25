@@ -14,6 +14,8 @@ public class TestIdeaGitApplicationTests {
         System.out.println("第一次修改");
         int a=10;
         int b=100;
+
+        System.out.println("dev分支添加");
     }
 
 }
